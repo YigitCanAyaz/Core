@@ -1,3 +1,4 @@
+This repository is the updated version of NetCoreBackend. Also this repository features new classes like FileHelper, GuiHelper.
 ## Tech Stack
 | Technology / Library | Version |
 | ------------- | ------------- |
